@@ -1,0 +1,10 @@
+
+@import "/node_modules/bootstrap/scss/bootstrap.scss";
+
+@import "theme/variables";
+@import "style";
+@import "theme/responsive";
+@import "theme/dashboard_default";
+
+@import "/node_modules/ngx-toastr/toastr.css";
+@import "sweetalert/sweetalert2.scss";
